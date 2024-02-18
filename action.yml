@@ -1,4 +1,4 @@
-name: 'Setup AWS cli'
+name: 'Setup AWS Cli Action'
 description: 'setup aws-cli'
 branding:
   icon: 'cloud'
